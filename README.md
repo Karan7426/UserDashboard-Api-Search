@@ -14,7 +14,7 @@ UserDashboard-Api-Search is a web application built using CodeIgniter 4. It prov
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/UserDashboard-Api-Search.git
+    git clone https://github.com/Karan7426/UserDashboard-Api-Search.git
     ```
     
 2. **Navigate to the project directory:**
